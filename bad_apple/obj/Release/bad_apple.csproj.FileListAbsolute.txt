@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\bad_apple\bad_apple\bin\Release\bad_apple.exe.config
+C:\Users\User\Desktop\bad_apple\bad_apple\bin\Release\bad_apple.exe
+C:\Users\User\Desktop\bad_apple\bad_apple\bin\Release\bad_apple.pdb
+C:\Users\User\Desktop\bad_apple\bad_apple\obj\Release\bad_apple.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\bad_apple\bad_apple\obj\Release\bad_apple.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\bad_apple\bad_apple\obj\Release\bad_apple.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\bad_apple\bad_apple\obj\Release\bad_apple.exe
+C:\Users\User\Desktop\bad_apple\bad_apple\obj\Release\bad_apple.pdb
+C:\Users\User\Desktop\Топ сікрет\bad_apple\bad_apple\bin\Release\bad_apple.exe.config
+C:\Users\User\Desktop\Топ сікрет\bad_apple\bad_apple\bin\Release\bad_apple.exe
+C:\Users\User\Desktop\Топ сікрет\bad_apple\bad_apple\bin\Release\bad_apple.pdb
+C:\Users\User\Desktop\Топ сікрет\bad_apple\bad_apple\obj\Release\bad_apple.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Топ сікрет\bad_apple\bad_apple\obj\Release\bad_apple.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Топ сікрет\bad_apple\bad_apple\obj\Release\bad_apple.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Топ сікрет\bad_apple\bad_apple\obj\Release\bad_apple.exe
+C:\Users\User\Desktop\Топ сікрет\bad_apple\bad_apple\obj\Release\bad_apple.pdb
